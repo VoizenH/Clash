@@ -1,4 +1,3 @@
 #自定义代理域名
 DOMAIN,ads.tiktok.com
-DOMAIN,17track.net
-DOMAIN,t.17track.net
+DOMAIN-SUFFIX,17track.net
